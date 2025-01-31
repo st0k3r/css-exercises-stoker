@@ -1,5 +1,5 @@
 .class_1, 
-.class_3{
+.class_3 {
     background-color: rgb(255, 192, 203);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
@@ -9,6 +9,12 @@
     font-size: 36px;
 }
 
-.class_3 {
+.class_3,
+#id_4 {
     font-size: 24px;
+}
+
+#id_4 {
+    background-color: rgb(0, 128, 0);
+    font-weight: bold;
 }
